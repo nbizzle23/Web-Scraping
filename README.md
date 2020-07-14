@@ -1,5 +1,5 @@
 # Web-Scraping
-<<<<<<< HEAD
+
 R code for web scraping data from [basketball-reference.com](https://www.basketball-reference.com/)
 
 ## Getting Started
@@ -26,6 +26,3 @@ library(lubridate)
 
 ```
 
-=======
-[R code](https://github.com/nbizzle23/Web-Scraping/blob/master/ScrapingNBAdata.R) for scraping data from [basketball-reference.com](https://www.basketball-reference.com/)
->>>>>>> 428cd0c99a55cb70b29b264f98174fd714a7f97a
