@@ -1,5 +1,3 @@
-
-
 #Scraping NBA game data from basketball-reference.com
 # Scraping the data
 # Load packages for web scraping
