@@ -13,7 +13,6 @@ These are the packages you need to install as well the installation process
 ```
 install.packages('rvest')
 install.packages('lubridate')
-
 ```
 
 ### Installing
@@ -23,6 +22,5 @@ Once these packages and the necessary dependencies have been installed called th
 ```
 library(rvest)
 library(lubridate)
-
 ```
 
