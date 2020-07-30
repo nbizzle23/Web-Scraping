@@ -2,10 +2,10 @@
 
 [R code](https://github.com/nbizzle23/Web-Scraping/blob/master/ScrapingNBAdata.R) for web scraping data from [basketball-reference.com](https://www.basketball-reference.com/)
 
-[R code]() for web scraping data from [Frozen IMBD](https://www.imdb.com/title/tt2294629/) using selectorGadget.
+[R code](https://github.com/nbizzle23/Web-Scraping/blob/master/Web%20Scraping%20with%20SelectorGadget.R) for web scraping data from [Frozen IMBD](https://www.imdb.com/title/tt2294629/) using selectorGadget.
 
 
-[R code]() for web scraping data from [bestplaces.net](http://www.bestplaces.net/climate/city/florida/orlando) by extracting the table directly.
+[R code](https://github.com/nbizzle23/Web-Scraping/blob/master/Webscraping%20Extracting%20Table.R) for web scraping data from [bestplaces.net](http://www.bestplaces.net/climate/city/florida/orlando) by extracting the table directly.
 
 
 ## Getting Started
